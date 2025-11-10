@@ -104,4 +104,4 @@ If you use this project or its data combination in your research, please cite:
 **Aliasgar Abbas Ringnodwala**  
 Department of Computer Science and Engineering  
 RV Institute of Technology and Management, Bangalore, India  
-📧 [aliasgarabbas42@gmail.com](mailto:aliasgarabbas42@gmail.com)  
+[aliasgarabbas42@gmail.com](mailto:aliasgarabbas42@gmail.com)  
